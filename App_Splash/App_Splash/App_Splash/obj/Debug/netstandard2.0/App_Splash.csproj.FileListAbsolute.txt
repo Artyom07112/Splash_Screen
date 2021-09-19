@@ -1,0 +1,14 @@
+C:\Users\artik\source\repos\App_Splash\App_Splash\App_Splash\bin\Debug\netstandard2.0\App_Splash.deps.json
+C:\Users\artik\source\repos\App_Splash\App_Splash\App_Splash\bin\Debug\netstandard2.0\App_Splash.dll
+C:\Users\artik\source\repos\App_Splash\App_Splash\App_Splash\bin\Debug\netstandard2.0\ref\App_Splash.dll
+C:\Users\artik\source\repos\App_Splash\App_Splash\App_Splash\bin\Debug\netstandard2.0\App_Splash.pdb
+C:\Users\artik\source\repos\App_Splash\App_Splash\App_Splash\obj\Debug\netstandard2.0\App_Splash.csprojAssemblyReference.cache
+C:\Users\artik\source\repos\App_Splash\App_Splash\App_Splash\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\artik\source\repos\App_Splash\App_Splash\App_Splash\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\artik\source\repos\App_Splash\App_Splash\App_Splash\obj\Debug\netstandard2.0\App_Splash.AssemblyInfoInputs.cache
+C:\Users\artik\source\repos\App_Splash\App_Splash\App_Splash\obj\Debug\netstandard2.0\App_Splash.AssemblyInfo.cs
+C:\Users\artik\source\repos\App_Splash\App_Splash\App_Splash\obj\Debug\netstandard2.0\App_Splash.csproj.CoreCompileInputs.cache
+C:\Users\artik\source\repos\App_Splash\App_Splash\App_Splash\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\artik\source\repos\App_Splash\App_Splash\App_Splash\obj\Debug\netstandard2.0\App_Splash.dll
+C:\Users\artik\source\repos\App_Splash\App_Splash\App_Splash\obj\Debug\netstandard2.0\ref\App_Splash.dll
+C:\Users\artik\source\repos\App_Splash\App_Splash\App_Splash\obj\Debug\netstandard2.0\App_Splash.pdb
